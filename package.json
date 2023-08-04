@@ -1,0 +1,19 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "This is a test Project",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "build": "parcel build" 
+  },
+  "keywords": [],
+  "author": "Holiday Roeun",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
